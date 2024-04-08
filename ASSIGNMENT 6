@@ -48,4 +48,4 @@ mysql> select city,count(*)as Number_of_customers from customer group by city  h
 +---------+---------------------+
 1 row in set (0.00 sec)
 
-
+//VERIFIED
