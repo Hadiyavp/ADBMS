@@ -18,5 +18,5 @@ mysql> select * from purchase;
 +-------+
 6 rows in set (0.00 sec)
  
-
+//VERIFIED
 
