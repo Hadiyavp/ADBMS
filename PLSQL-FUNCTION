@@ -27,4 +27,4 @@ mysql> select p_id,p_name,priceind(price) from product;
 
 mysql> 
 
-
+//VERIFIED
