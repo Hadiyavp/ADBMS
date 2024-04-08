@@ -22,4 +22,4 @@ mysql> select p_name,price from product where p_id in(select p_id from invoice_m
 +-----------+-------+
 5 rows in set (0.00 sec)
 
-
+//VERIFIED
