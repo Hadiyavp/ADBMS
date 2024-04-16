@@ -153,8 +153,7 @@ INVOICE> db.CUSTOMER.find()
     address: 'eeeeee',
     city: 'kollam'
   }
-]
-INVOICE> 
+] 
 
 
 //VERIFIED
